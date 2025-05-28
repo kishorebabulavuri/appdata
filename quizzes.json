@@ -1,0 +1,4 @@
+[
+    { "question": "Which SQL clause is used to filter records?", "options": ["WHERE", "HAVING", "ORDER BY", "GROUP BY"], "answer": "WHERE" },
+    { "question": "What does INNER JOIN do?", "options": ["Matches rows from both tables", "Shows only unmatched rows", "Deletes duplicate entries", "None of the above"], "answer": "Matches rows from both tables" }
+]
