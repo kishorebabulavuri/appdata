@@ -1,0 +1,12 @@
+[
+    {
+        "question": "What is the difference between WHERE and HAVING?",
+        "answer": "WHERE filters rows before aggregation, while HAVING filters groups after aggregation.",
+        "explanation": "WHERE is used for filtering individual rows, and HAVING applies conditions to grouped data."
+    },
+    {
+        "question": "How does an INDEX improve SQL query performance?",
+        "answer": "Indexes speed up searches by allowing the database to locate rows faster.",
+        "explanation": "Instead of scanning all rows, an index helps SQL locate relevant rows efficiently."
+    }
+]
