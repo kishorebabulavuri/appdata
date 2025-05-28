@@ -1,0 +1,4 @@
+[
+    { "date": "2025-05-28", "topic": "SQL Joins", "content": "Inner, Left, Right, Full Joins explained." },
+    { "date": "2025-05-29", "topic": "Indexing in SQL", "content": "How indexes improve query performance." }
+]
